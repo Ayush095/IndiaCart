@@ -1,6 +1,15 @@
-# india_cart_app
+IndiaCart is an e-commerce platform built using Flutter. It provides a shopping interface for users to browse products, add them to their cart, and proceed to checkout. The project demonstrates essential e-commerce functionality with a modern mobile-first approach, leveraging Flutter's cross-platform capabilities.
 
-A new Flutter project.
+Features
+Dynamic product listing and display.
+Add products to the shopping cart.
+Remove items from the cart.
+Automatic total price calculation.
+Responsive and adaptive layout for both Android and iOS devices.
+
+Technologies Used:
+Flutter (Dart)
+Material Design Components
 
 ## Getting Started
 
